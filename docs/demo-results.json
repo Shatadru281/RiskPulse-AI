@@ -1,0 +1,57 @@
+[
+  {
+    "scenario": "geopolitical",
+    "sentiment": -0.982,
+    "category": "Geopolitical",
+    "impact": 9.5,
+    "confidence": 0.851,
+    "before": 100000000,
+    "after": 93918603.86,
+    "loss": 6081396.14,
+    "lossPct": 6.0814
+  },
+  {
+    "scenario": "credit",
+    "sentiment": -0.996,
+    "category": "Credit Event",
+    "impact": 9,
+    "confidence": 0.912,
+    "before": 100000000,
+    "after": 95498012.06,
+    "loss": 4501987.94,
+    "lossPct": 4.502
+  },
+  {
+    "scenario": "rates",
+    "sentiment": -0.905,
+    "category": "Macroeconomic",
+    "impact": 8.6,
+    "confidence": 0.869,
+    "before": 100000000,
+    "after": 93686733.71,
+    "loss": 6313266.29,
+    "lossPct": 6.3133
+  },
+  {
+    "scenario": "cyber",
+    "sentiment": -0.999,
+    "category": "Cybersecurity",
+    "impact": 8.6,
+    "confidence": 0.921,
+    "before": 100000000,
+    "after": 98871508.97,
+    "loss": 1128491.03,
+    "lossPct": 1.1285
+  },
+  {
+    "scenario": "earnings",
+    "sentiment": 0.99,
+    "category": "Earnings",
+    "impact": 5.1,
+    "confidence": 0.902,
+    "before": null,
+    "after": null,
+    "loss": null,
+    "lossPct": null
+  }
+]

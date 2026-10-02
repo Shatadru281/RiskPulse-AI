@@ -1,0 +1,52 @@
+[
+  {
+    "id": "demo-social-s1",
+    "title": "Public discussion: Ardent Bank funding pressure",
+    "text": "Fictional discussion participants question Ardent Bank's credit rating after a downgrade and severe liquidity concerns. This is a synthetic public-discussion example, not a verified report.",
+    "source": "Demo public discussion",
+    "sourceType": "social",
+    "publishedAt": "2026-10-01T12:45:00.000Z",
+    "isDemo": true,
+    "author": "synthetic-participant"
+  },
+  {
+    "id": "demo-social-s2",
+    "title": "Public discussion: Northstar earnings reaction",
+    "text": "Synthetic participants discuss Northstar Technology earnings. Strong earnings and revenue growth beat expectations and support a recovery.",
+    "source": "Demo public discussion",
+    "sourceType": "social",
+    "publishedAt": "2026-10-01T12:40:00.000Z",
+    "isDemo": true,
+    "author": "synthetic-participant"
+  },
+  {
+    "id": "demo-social-s3",
+    "title": "Public discussion: Harbor supplier delays",
+    "text": "Synthetic contributors discuss Harbor Logistics supplier shortage and shipping disruption. They describe weak delivery performance and uncertainty.",
+    "source": "Demo public discussion",
+    "sourceType": "social",
+    "publishedAt": "2026-10-01T12:35:00.000Z",
+    "isDemo": true,
+    "author": "synthetic-participant"
+  },
+  {
+    "id": "demo-social-s4",
+    "title": "Public discussion: market volatility",
+    "text": "Fictional public discussion describes a global stock market selloff and sharply increased volatility. Participants worry about losses.",
+    "source": "Demo public discussion",
+    "sourceType": "social",
+    "publishedAt": "2026-10-01T12:30:00.000Z",
+    "isDemo": true,
+    "author": "synthetic-participant"
+  },
+  {
+    "id": "demo-social-s5",
+    "title": "Public discussion: routine Helix meeting",
+    "text": "Synthetic participants share the routine annual meeting schedule for Helix Healthcare without additional financial commentary.",
+    "source": "Demo public discussion",
+    "sourceType": "social",
+    "publishedAt": "2026-10-01T12:25:00.000Z",
+    "isDemo": true,
+    "author": "synthetic-participant"
+  }
+]

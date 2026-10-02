@@ -1,0 +1,11 @@
+node_modules
+.next
+.riskpulse
+package-lock.json
+docs/*.svg
+docs/*.png
+docs/*.pptx
+docs/*.jpg
+work
+AGENTS.md
+CLAUDE.md

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "demo-news-geopolitical",
+    "scenario": "geopolitical",
+    "title": "Global markets fall as escalating geopolitical tensions trigger sanctions",
+    "text": "In this fictional demonstration, escalating geopolitical tensions trigger sanctions, conflict and supply chain disruptions. Global markets fall sharply as systemic uncertainty spreads. Meridian Energy and Harbor Logistics face immediate disruption.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T12:55:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-credit",
+    "scenario": "credit",
+    "title": "Ardent Bank credit downgrade raises liquidity concerns",
+    "text": "Fictional Ardent Bank suffers a credit downgrade after severe liquidity concerns. Analysts warn of default and a systemic liquidity crisis across the banking system.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T12:51:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-rates",
+    "scenario": "rates",
+    "title": "Central bank unexpectedly raises interest rates as inflation surges",
+    "text": "In a fictional scenario, the central bank unexpectedly raises interest rates by 200 basis points. Global markets fall as inflation and recession concerns intensify.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T12:47:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-cyber",
+    "scenario": "cyber",
+    "title": "Northstar Technology hit by severe ransomware cyberattack",
+    "text": "Fictional Northstar Technology reports a severe ransomware cyberattack and data breach. A sudden shutdown takes systems offline and causes losses for customers.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T12:43:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-earnings",
+    "scenario": "earnings",
+    "title": "Northstar Technology beats expectations with record profit",
+    "text": "Fictional Northstar Technology reports strong earnings and record profit. Revenue growth beats expectations, and the company raises guidance after a successful product expansion.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T11:39:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-product",
+    "scenario": "product",
+    "title": "Helix Healthcare launches a successful new product",
+    "text": "Fictional Helix Healthcare launches a successful new product following a routine development cycle. The release supports modest growth.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T11:35:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-supply",
+    "scenario": "supply",
+    "title": "Harbor Logistics warns of shipping disruption and supplier shortage",
+    "text": "Fictional Harbor Logistics reports a factory shutdown, shipping disruption and supplier shortage. Global supply chain uncertainty causes significant losses.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T11:31:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-regulatory",
+    "scenario": "regulatory",
+    "title": "Regulator opens compliance investigation into Evergreen Manufacturing",
+    "text": "A fictional regulator opens a fraud investigation into Evergreen Manufacturing. The company faces a significant fine and uncertainty.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T11:27:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-merger",
+    "scenario": "merger",
+    "title": "Meridian Energy announces acquisition of a fictional renewables unit",
+    "text": "Fictional Meridian Energy announces an acquisition and merger agreement with an unnamed synthetic energy business. Terms remain subject to routine approval.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T10:23:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "demo-news-neutral",
+    "scenario": "neutral",
+    "title": "Helix Healthcare confirms annual meeting date",
+    "text": "Fictional Helix Healthcare confirms its annual meeting date and publishes the routine administrative agenda.",
+    "source": "Demo financial news",
+    "sourceType": "news",
+    "publishedAt": "2026-10-01T10:19:00.000Z",
+    "isDemo": true
+  }
+]

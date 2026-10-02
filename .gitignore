@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.riskpulse/
+.env*
+!.env.example
+coverage/
+*.tsbuildinfo
+*.log
+*.tmp
+work/
+.DS_Store

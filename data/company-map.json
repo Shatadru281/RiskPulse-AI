@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ardent Bank",
+    "ticker": "ARD",
+    "aliases": ["Ardent"],
+    "sector": "Financials"
+  },
+  {
+    "name": "Northstar Technology",
+    "ticker": "NST",
+    "aliases": ["Northstar"],
+    "sector": "Technology"
+  },
+  {
+    "name": "Meridian Energy",
+    "ticker": "MDE",
+    "aliases": ["Meridian"],
+    "sector": "Energy"
+  },
+  {
+    "name": "Harbor Logistics",
+    "ticker": "HBL",
+    "aliases": ["Harbor"],
+    "sector": "Industrials"
+  },
+  {
+    "name": "Evergreen Manufacturing",
+    "ticker": "EVM",
+    "aliases": ["Evergreen"],
+    "sector": "Industrials"
+  },
+  {
+    "name": "Helix Healthcare",
+    "ticker": "HLX",
+    "aliases": ["Helix"],
+    "sector": "Healthcare"
+  },
+  {
+    "name": "Apple",
+    "ticker": "AAPL",
+    "aliases": ["Apple Inc"],
+    "sector": "Technology"
+  },
+  {
+    "name": "Microsoft",
+    "ticker": "MSFT",
+    "aliases": [],
+    "sector": "Technology"
+  },
+  {
+    "name": "Amazon",
+    "ticker": "AMZN",
+    "aliases": [],
+    "sector": "Consumer"
+  },
+  {
+    "name": "NVIDIA",
+    "ticker": "NVDA",
+    "aliases": [],
+    "sector": "Technology"
+  }
+]
