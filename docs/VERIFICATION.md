@@ -1,5 +1,11 @@
 # Executed verification record
 
+## Submission update on 8 October 2026
+
+All 41 tests and the production build passed again on 8 October. TypeScript, lint and formatting checks passed. The production server started and `npm run verify:api` passed for all five scenarios. The supplied submission guidelines were reviewed; candidate fields, repository naming and README links were aligned, a seven-slide PDF was exported and visually inspected, and a four-page recording script was rendered with Microsoft Word and checked. The video and its unlisted YouTube URL remain pending; no final submission is claimed.
+
+## Initial verification on 2 October 2026
+
 Verified on Windows on 2 October 2026 with Node.js 22.12.0 and npm 11.6.0. A current Node.js 22 or 24 release is recommended: one ESLint transitive package emitted a non-blocking engine warning on Node 22.12. All commands below completed successfully on the tested machine.
 
 | Check                                 | Observed result                                                                                                        |

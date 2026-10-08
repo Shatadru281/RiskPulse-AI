@@ -1,6 +1,6 @@
 # RiskPulse AI implementation report
 
-Delivered 2 October 2026 for the S&P Global & CRISIL Campus Hackathon 2026.
+Initially delivered 2 October 2026; submission packaging updated on 8 October 2026 against the supplied external guidelines.
 
 ## 1. What was built
 
@@ -23,7 +23,7 @@ Node.js, strict TypeScript, Next.js 16 App Router, React 19, Tailwind CSS 4, Rec
 - `data/`: news, social, company dictionary and synthetic portfolio fixtures.
 - `tests/`: four Vitest suites covering NLP, ingestion, stress and API/persistence.
 - `scripts/`: diagram/deck generation and actual HTTP verification.
-- `docs/`: methodology, exact five-minute script, architecture PNG/SVG, presentation, dashboard screenshots, computed results and verification record.
+- `docs/`: methodology, ten-minute submission script, optional five-minute jury rehearsal, recording guide, Q&A, submission checklist, architecture PNG/SVG, PDF/PPTX deck, Word script, screenshots, computed results and verification record.
 - Root: README, MIT license, npm lockfile, `.env.example`, TypeScript and tool configuration, and Git exclusions.
 
 ## 5. NLP methodology
@@ -85,17 +85,22 @@ English rule-based NLP and dictionary entities have limited context and coverage
 
 ## 13. Manual completion before submission
 
-Fill candidate name, college email, college/campus and demo-video link in README; fill the three candidate fields on slide 1. If regenerating the deck, update those values in `scripts/generate-presentation.ts` too. Record the five-minute demo, apply any required college/candidate repository naming convention, and publish the source to your own GitHub destination. No public repository or video was created without those details.
+Candidate name, college and email are populated from the presentation. The public repository uses the required college–candidate–hackathon naming pattern. The remaining work is to record the ten-minute walkthrough, upload it to YouTube as Unlisted, add and verify its viewing URL in README, and submit the final links/deck through the organizers' official form. The supplied guidelines contain no actual deadline or form URL.
 
-## 14. Exact five-minute demo
+## 14. Ten-minute submission video
 
-| Time      | Action                                                                                                           |
-| --------- | ---------------------------------------------------------------------------------------------------------------- |
-| 0:00–0:30 | Show the dashboard and explain the problem, synthetic data and Module B.                                         |
-| 0:30–1:00 | Show architecture and the two sources with independent fallbacks.                                                |
-| 1:00–2:30 | Run **Geopolitical conflict**; explain sentiment −0.982, class and impact 9.5 using the evidence panel.          |
-| 2:30–3:30 | Expand **Structured API output**; show machine-readable scores, entities and provenance.                         |
-| 3:30–4:30 | Show the automatic scenario, $100M → $93.92M, $6.08M illustrative loss, and individual asset formulas.           |
-| 4:30–5:00 | Run **Positive earnings**; show impact 5.1 and no automatic stress, then explain business value and limitations. |
+| Time       | Action                                                       |
+| ---------- | ------------------------------------------------------------ |
+| 0:00–0:30  | Introduce the candidate, problem and Module B.               |
+| 0:30–1:15  | Show README commands and app startup.                        |
+| 1:15–2:10  | Explain architecture, sources and synthetic data.            |
+| 2:10–3:20  | Run the geopolitical demo and show its scores.               |
+| 3:20–4:00  | Explain scoring evidence and structured JSON.                |
+| 4:00–5:40  | Show automatic stress, $100M → $93.92M and asset formulas.   |
+| 5:40–6:40  | Compare credit downgrade with positive earnings.             |
+| 6:40–7:25  | Analyze a new fictional text input.                          |
+| 7:25–8:15  | Run the tests and explain implementation choices.            |
+| 8:15–9:30  | Explain business value, limitations and next steps.          |
+| 9:30–10:00 | Close with repository contents and AI-assistance disclosure. |
 
-Use offline mode for the timed demonstration. The word-for-word narration and recovery cues are in [DEMO_SCRIPT.md](DEMO_SCRIPT.md).
+Use offline mode. The narration and screen actions are in [DEMO_SCRIPT.md](DEMO_SCRIPT.md), with [recording/upload instructions](RECORDING_GUIDE.md). The [five-minute rehearsal](JURY_PITCH.md) is optional and does not replace the required ten-minute submission video.

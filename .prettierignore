@@ -5,6 +5,8 @@ package-lock.json
 docs/*.svg
 docs/*.png
 docs/*.pptx
+docs/*.pdf
+docs/*.docx
 docs/*.jpg
 work
 AGENTS.md

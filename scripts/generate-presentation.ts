@@ -131,7 +131,7 @@ async function main() {
   );
   text(
     cover,
-    "Candidate: [FILL HERE]\nCollege / campus: [FILL HERE]\nCollege email: [FILL HERE]",
+    "Candidate: Shatadru Adhikary\nCollege / campus: Vellore Institute of Technology\nCollege email: shatadru.23bce8160@vitapstudent.ac.in",
     0.8,
     5.28,
     11.6,
@@ -141,7 +141,7 @@ async function main() {
   );
   notes(
     cover,
-    "Educational hackathon prototype. All demo reports and portfolio positions are synthetic. Fill candidate details before submission. Branding does not imply sponsor endorsement.",
+    "Educational hackathon prototype. All demo reports and portfolio positions are synthetic. Individual submission by Shatadru Adhikary. Branding does not imply sponsor endorsement.",
   );
 
   const s2 = slide("Problem & approach", 2);

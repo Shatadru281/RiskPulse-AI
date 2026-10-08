@@ -2,13 +2,17 @@
 
 **Real-Time AI Financial Risk Intelligence & Event-Driven Portfolio Stress Testing Platform**
 
-Candidate Name: [FILL HERE]
+**Candidate Name:** Shatadru Adhikary
 
-College Email ID: [FILL HERE]
+**College Email ID:** shatadru.23bce8160@vitapstudent.ac.in
 
-College / Campus: [FILL HERE]
+**College / Campus:** Vellore Institute of Technology
 
-Demo Video Link: [FILL HERE]
+**Demo Video Link:** Pending recording and unlisted YouTube upload; replace this line with the final viewing link before submission.
+
+**Slide Deck Link:** [Seven-slide PDF](docs/presentation.pdf) · [Editable PowerPoint](docs/presentation.pptx)
+
+**Public Repository:** [vit-shatadru-adhikary-hackathon](https://github.com/Shatadru281/vit-shatadru-adhikary-hackathon)
 
 > Educational hackathon prototype. **SYNTHETIC DATA — DEMONSTRATION ONLY.** Scenario assumptions are illustrative, not investment advice or calibrated production risk parameters. This project does not imply endorsement by S&P Global or CRISIL.
 
@@ -90,9 +94,13 @@ Demo timestamps are rebased to the current clock when seeded or replayed, then p
 
 ## 4. Quickstart & Installation
 
-From the repository folder:
+**Runtime and tested platform:** Node.js 22.12.0 and npm 11.6.0 on Windows. A current Node.js 22/24 release is recommended; minimum Node.js 20.19.
+
+For a fresh checkout:
 
 ```bash
+git clone https://github.com/Shatadru281/vit-shatadru-adhikary-hackathon.git
+cd vit-shatadru-adhikary-hackathon
 npm install
 npm run dev
 ```
@@ -188,7 +196,9 @@ Analyze returns **201** for a newly stored event and **200** for a duplicate. In
 4. Inspect the automatically triggered **Portfolio impact**, shock assumptions, before/after chart and position table. Export JSON if helpful.
 5. Run **Positive earnings**. Its lower impact keeps it in monitoring, with no automatic stress scenario. Optional manual sensitivity is explicit.
 
-The complete five-minute narration is in [DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md). The [seven-slide deck](docs/presentation.pptx) and [architecture image](docs/architecture.png) are included.
+The submission guidelines specify a **10-minute screen recording**. Use the [timed narration and on-screen actions](docs/DEMO_SCRIPT.md), [printable Word script](docs/VIDEO_SCRIPT.docx), and [recording and upload guide](docs/RECORDING_GUIDE.md). The earlier [five-minute jury rehearsal](docs/JURY_PITCH.md) is an optional shorter practice version, not the submission video.
+
+The [seven-slide PDF](docs/presentation.pdf), [editable deck](docs/presentation.pptx), and [architecture image](docs/architecture.png) are included. Review the [submission checklist](docs/SUBMISSION_CHECKLIST.md) and [technical Q&A](docs/JURY_QA.md) before recording.
 
 ## 9. Limitations
 
@@ -208,4 +218,6 @@ Evaluate finance-specific transformer models against labeled datasets, improve e
 
 Model choice was informed by the [Transformers.js pipeline documentation](https://huggingface.co/docs/transformers.js/en/pipelines): compatible ONNX models are available, but downloaded weights, first-load behavior and financial-domain validation add demonstration risk. The required local hybrid method keeps this submission reproducible and offline. Framework setup follows the [Next.js App Router documentation](https://nextjs.org/docs/app/getting-started/installation).
 
-**Before submission:** fill the four candidate/video fields above and the candidate fields on slide 1; rename the folder to your college/candidate convention if required; record your demo; review contest rules; publish the source to your own public GitHub repository. An MIT license is included. Dependencies, build artifacts, runtime stores and environment secrets are excluded from Git and the submission archive.
+**AI assistance and individual submission:** This project was developed with AI assistance for implementation, debugging, tests, and documentation. It is submitted by Shatadru Adhikary as an individual project. The candidate is responsible for reviewing the implementation, understanding its assumptions, and explaining it during the jury session. No claim of writing every line without assistance is made.
+
+**Before submission:** record the 10-minute walkthrough, upload it to YouTube as **Unlisted**, replace the pending video line above, and test the repository, PDF and video links while signed out. Submit the final repository URL, video URL and deck through the official form by the deadline communicated by the organizers. The supplied guideline document does not contain an actual deadline or form URL. An MIT license is included. Dependencies, build artifacts, runtime stores, videos and environment secrets are excluded from Git and the submission archive.
