@@ -1,4 +1,4 @@
-# RiskPulse AI - S&P Global & CRISIL Campus Hackathon
+# RiskPulse AI - Real-Time AI Financial Risk Intelligence & Event-Driven Portfolio Stress Testing Platform
 
 **Real-Time AI Financial Risk Intelligence & Event-Driven Portfolio Stress Testing Platform**
 
