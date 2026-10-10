@@ -8,7 +8,7 @@
 
 **College / Campus:** Vellore Institute of Technology
 
-**Demo Video Link:** Pending recording and unlisted YouTube upload; replace this line with the final viewing link before submission.
+**Demo Video Link:** https://youtu.be/eO7wFf6rvAw
 
 **Slide Deck Link:** [Seven-slide PDF](docs/presentation.pdf) · [Editable PowerPoint](docs/presentation.pptx)
 
